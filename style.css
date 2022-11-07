@@ -1,7 +1,12 @@
 body{
-    background-color: #20B2AA;
-    text-align: center;
+
+text-align: center;
 }
+.principal{
+    background-color: aqua;
+    padding: 30px;
+}
+
 
 h1{
     font-size: 30px;
@@ -28,4 +33,15 @@ p{
 .beneficios{
     background-color: white;
     text-align: left;
+    font-size: 25px;
+    padding: 28px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin: 3%;
+    list-style: circle;
+    width: 20%;
+    margin-right: 15% ;
 }
